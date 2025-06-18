@@ -1,0 +1,7 @@
+tr.dtype {
+    background-color: cyan;
+}
+tr.data {
+    color: yellow;
+    background-color: orange;
+}
